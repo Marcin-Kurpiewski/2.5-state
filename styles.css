@@ -1,0 +1,9 @@
+body{
+	text-align:center;
+	font-size:4em;
+	
+}
+#appOne, #appTwo{
+	width:50%;
+	float:left;
+}

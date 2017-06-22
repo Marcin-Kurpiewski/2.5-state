@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marcin-Kurpiewski/2.5-state.git"
+    "url": "git+https://github.com/Marcin-Kurpiewski/2.6-state.git"
   },
   "author": "MK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Marcin-Kurpiewski/2.5-state/issues"
+    "url": "https://github.com/Marcin-Kurpiewski/2.6-state/issues"
   },
-  "homepage": "https://github.com/Marcin-Kurpiewski/2.5-state#readme"
+  "homepage": "https://github.com/Marcin-Kurpiewski/2.6-state#readme"
 }
